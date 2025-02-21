@@ -6,7 +6,7 @@ la mejor experiencia de usuario
 
 Autor: Julian Santiago Gonzalez Becerra
 
-#Referencias
+# Referencias
 Ideas fundamentales
 Funcionalidades
 Interfaces gráficas
